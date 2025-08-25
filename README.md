@@ -17,6 +17,16 @@ The game supports two players (local multiplayer) with a clean UI, sound effects
 
 🎨MInimal and modern ui with sound effect
 
+
+# 🔮 Future Improvements
+
+Add AI opponent (single player mode)
+
+Add a restart button after a win/draw
+
+Add animated transitions for placing X and O
+
+
 # 🚀 How to Run
 # Clone this repo:
 
