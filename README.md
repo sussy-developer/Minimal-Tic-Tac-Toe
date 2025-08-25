@@ -29,6 +29,6 @@ cd tic-tac-toe-pygame
 pip install pygame
 
 
-Run the game:
+# Run the game:
 
 python main.py
