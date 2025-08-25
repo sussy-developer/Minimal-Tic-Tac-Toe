@@ -26,6 +26,8 @@ Add a restart button after a win/draw
 
 Add animated transitions for placing X and O
 
+## Screenshot
+![Gameplay Screenshot](gameplay.png)
 
 # 🚀 How to Run
 # Clone this repo:
