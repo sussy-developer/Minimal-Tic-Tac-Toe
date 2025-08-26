@@ -20,9 +20,7 @@ The game supports two players (local multiplayer) with a clean UI, sound effects
 
 # 🔮 Future Improvements
 
-i will upload the apk for android 
-
-Add AI opponent (single player mode)
+Add AI hardest opponent (single player mode)
 
 Add a restart button after a win/draw
 
